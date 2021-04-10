@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    transition: 0.3s;
+    left: 0%;
+  }
+
+#navIcon {
+    position: absolute;
+    transform: rotate(90deg);
+    transition: 0.5s;
+    /*transform-origin: 50% 50%;*/
+}
+
+#hidingButtons {
+    margin-top: 25px;
+    padding: 4px;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+.mainText {
+    margin-left: 10%;
+    padding: 1px 16px;
+}
