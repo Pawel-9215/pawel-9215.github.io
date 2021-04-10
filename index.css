@@ -17,12 +17,12 @@ body {
   }
 
 #navIcon {
+    font-size: 28;
     position: absolute;
     transform: rotate(0deg);
     text-decoration: none;
     margin: 5px;
     margin-left: 75%;
-    font-size: 28;
     background: none;
     color: rgb(20, 31, 31);
     border: 0;
