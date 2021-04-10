@@ -7,7 +7,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 10%;
+    width: 15%;
     background-color: #f1f1f1;
     position: fixed;
     height: 100%;
@@ -18,13 +18,19 @@ body {
 
 #navIcon {
     position: absolute;
-    transform: rotate(90deg);
-    transition: 0.5s;
-    /*transform-origin: 50% 50%;*/
+    transform: rotate(0deg);
+    text-decoration: none;
+    margin: 5px;
+    margin-left: 70%;
+    font-size: 28;
+    background: none;
+    color: rgb(20, 31, 31);
+    border: 0;
+    transition: all 200ms;
 }
 
 #hidingButtons {
-    margin-top: 25px;
+    margin-top: 40px;
     padding: 4px;
 }
 
@@ -36,6 +42,7 @@ li a {
   }
 
 .mainText {
-    margin-left: 10%;
+    margin-left: 15%;
     padding: 1px 16px;
+    transition: 150ms;
 }
