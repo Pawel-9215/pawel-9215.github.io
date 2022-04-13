@@ -1,0 +1,12 @@
+{"games":{
+    "title": "My games",
+    "content": "List of games"
+},
+"bio":{
+    "title": "My Bio",
+    "content": "Here would be my bio"
+},
+"contact":{
+    "title":"Contact",
+    "content": "You can contact me at"
+}}
