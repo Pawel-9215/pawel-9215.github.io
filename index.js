@@ -2,7 +2,7 @@ console.log("Hello from Pawel's website");
 
 let myContent = {"games":{
     "title": "My games",
-    "content": "<a href='/HD_out/hoppy_days.html'>Hoppy Days</a><br><a href='/BlackFrost/BlackFrost.html'>BlackFrost</a><br><a href='/BlackFrost_02/BlackFrost.html'>BlackFrost_0.2</a><br>"
+    "content": "<a href='/HD_out/hoppy_days.html'>Hoppy Days</a><br><a href='/BlackFrost/BlackFrost.html'>BlackFrost</a><br><a href='/BlackFrost_02/BlackFrost.html'>BlackFrost_0.2</a><br><a href='/Pipi_game_run/pipi_game.html'>Pipi Game</a><br>"
 },
 "bio":{
     "title": "My Bio",
